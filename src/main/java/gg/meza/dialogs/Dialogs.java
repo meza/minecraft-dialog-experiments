@@ -1,4 +1,4 @@
-package com.example;
+package gg.meza.dialogs;
 /*? if fabric {*/
 import net.fabricmc.api.ModInitializer;
 /*?}*/
@@ -18,7 +18,7 @@ import net.neoforged.fml.common.Mod;
 
 /*? if forgeLike {*/
 /*@Mod("examplemod")
-public class ExampleMod {*/
+public class Dialogs {*/
 /*?}*/
 
 /*? if fabric {*/
